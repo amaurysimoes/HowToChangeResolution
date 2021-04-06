@@ -1,0 +1,10 @@
+C:\Users\bb0h6992\Downloads\howto_change_resolution\bin\Debug\essential_algorithms Big.png
+C:\Users\bb0h6992\Downloads\howto_change_resolution\bin\Debug\howto_change_resolution.exe
+C:\Users\bb0h6992\Downloads\howto_change_resolution\bin\Debug\howto_change_resolution.pdb
+C:\Users\bb0h6992\Downloads\howto_change_resolution\obj\Debug\howto_change_resolution.csprojAssemblyReference.cache
+C:\Users\bb0h6992\Downloads\howto_change_resolution\obj\Debug\howto_change_resolution.Form1.resources
+C:\Users\bb0h6992\Downloads\howto_change_resolution\obj\Debug\howto_change_resolution.Properties.Resources.resources
+C:\Users\bb0h6992\Downloads\howto_change_resolution\obj\Debug\howto_change_resolution.csproj.GenerateResource.cache
+C:\Users\bb0h6992\Downloads\howto_change_resolution\obj\Debug\howto_change_resolution.csproj.CoreCompileInputs.cache
+C:\Users\bb0h6992\Downloads\howto_change_resolution\obj\Debug\howto_change_resolution.exe
+C:\Users\bb0h6992\Downloads\howto_change_resolution\obj\Debug\howto_change_resolution.pdb
